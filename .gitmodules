@@ -1,0 +1,3 @@
+[submodule "Plugins/libnoiseUE"]
+	path = Plugins/libnoiseUE
+	url = https://github.com/kenwi/libnoiseUE
